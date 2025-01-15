@@ -5,3 +5,4 @@ document.getElementById("demo").innerHTML = numbers.reduce(myFunc);
 function myFunc(total, num) {
   return total - num;
 }
+Hii
